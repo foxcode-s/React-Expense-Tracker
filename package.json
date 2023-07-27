@@ -1,7 +1,7 @@
 {
-  "homepage": "http://foxcode-s.github.io/react-expense-tracker",
   "name": "react-complete-guide",
   "version": "0.1.0",
+  "homepage": "http://foxcode-s.github.io/react-expense-tracker",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
@@ -10,8 +10,7 @@
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-scripts": "^5.0.1",
-    "web-vitals": "^0.2.4",
-    "homepage": "http://{github-username}.github.io/{repo-name}"
+    "web-vitals": "^0.2.4"
   },
   "scripts": {
     "start": "react-scripts start",
